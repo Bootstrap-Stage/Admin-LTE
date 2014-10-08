@@ -1,12 +1,8 @@
 **AdminLTE** -- is a fully responsive admin template. Based on **Bootstrap 3** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself. 
 
-**Live Preview: http://almsaeedstudio.com/preview/**
+**Live Preview: http://www.bootstrapstage.com/demo/admin-lte/index.html**
 
-Note: If the javascript in the preview does not work properly (specially IE users), please visit http://almsaeedstudio.com/AdminLTE (this could be because of the use of an iframe!)
-
-Want More?
------------
-**Almsaeed studio just opened a new premium templates page. Hand picked to insure the best quality and the most affordable prices. Visit http://almsaeedstudio.com/premium for more information.**
+Note: If the javascript in the preview does not work properly (specially IE users), please visit http://www.bootstrapstage.com/demo/admin-lte/index.html
 
 
 !["AdminLTE Presentation"](http://almsaeedstudio.com/adminlte2.png "AdminLTE Presentation")
